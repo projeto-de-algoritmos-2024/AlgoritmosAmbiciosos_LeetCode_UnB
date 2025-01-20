@@ -20,19 +20,41 @@ Temas:
 ## Alunos
 |Matrícula | Aluno |
 | -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| 21/2041080  |  Ana Beatriz Norberto |
+| 22/1007680  |  Bruno Ricardo de Menezes |
 
 ## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
 
-## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+No trabalho 4 de Projeto de Algoritmos, no módulo sobre Algoritmos ambiciosos na disciplina, a dupla selecionou algumas questões do LeetCode. Sendo eles 2 de nível difícil e 2 de nível médio.
 
-## Instalação 
-**Linguagem**: xxxxxx<br>
-**Framework**: (caso exista)<br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
+## Screenshots (Questões)
+
+### 44. Shortest Cycle in The Graph (Difícil)
+
+- [Link da Questão]()
+
+- [Vídeo - Explicação]()
+
+<div align="left">
+  <img src="" width="700" alt="Questao 44">
+  <br>
+    <em>Imagem 1 - Questão 44</em>
+
+</div>
+
+### 322. Coin Change (Médio)
+
+- [Link da Questão]()
+
+- [Vídeo - Explicação]()
+
+<div align="left">
+  <img src="" width="700" alt="Questao 322">
+  <br>
+    <em>Imagem 2 - Questão 322</em>
+
+</div> 
+
 
 ## Uso 
 Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
