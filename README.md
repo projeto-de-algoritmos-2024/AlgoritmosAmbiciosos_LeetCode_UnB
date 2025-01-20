@@ -1,21 +1,7 @@
-**!! Atenção: Renomeie o seu repositório para (Tema)_(NomeDoProjeto). !!** 
-
-Temas:
- - Grafos1
- - Grafos2
- - PD
- - D&C
- - Greed
- - Final 
- 
- **!! *Não coloque os nomes dos alunos no título do repositório*. Exemplo de título correto: Grafos2_Labirinto-do-Minotauro !!**
- 
- (Apague essa seção)
-
 # NomedoProjeto
 
 **Número da Lista**: X<br>
-**Conteúdo da Disciplina**: XXXXXXXXXX<br>
+**Conteúdo da Disciplina**: Algoritmos Ambiciosos<br>
 
 ## Alunos
 |Matrícula | Aluno |
@@ -52,6 +38,35 @@ No trabalho 4 de Projeto de Algoritmos, no módulo sobre Algoritmos ambiciosos n
   <img src="" width="700" alt="Questao 322">
   <br>
     <em>Imagem 2 - Questão 322</em>
+
+</div> 
+
+### 2136. Earliest Possible Day of Full Bloom (Difícil)
+
+- [Link da Questão](https://leetcode.com/problems/earliest-possible-day-of-full-bloom/)
+
+- [Vídeo - Explicação](https://youtu.be/0rMd3zA1PjI)
+
+<div align="left">
+  <img src="![image](https://github.com/user-attachments/assets/eda350b6-b3df-429a-905c-b26c470ac13b)
+" width="700" alt="Questao 2136">
+  <br>
+    <em>Imagem 3 - Questão 2136</em>
+
+</div> 
+
+### 435. Non-overlapping Intervals (Médio)
+
+- [Link da Questão](https://leetcode.com/problems/non-overlapping-intervals/description/)
+
+- [Vídeo - Explicação](https://youtu.be/lm2QBaZ3DzM)
+- [Vídeo - Código Rodando](https://youtu.be/DUXHK0U24SI)
+
+<div align="left">
+  <img src="![image](https://github.com/user-attachments/assets/e090ed0e-a624-4cfa-bc01-a5410820b6c5)
+" width="700" alt="Questao 435">
+  <br>
+    <em>Imagem 4 - Questão 435</em>
 
 </div> 
 
