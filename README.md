@@ -1,6 +1,6 @@
 # NomedoProjeto
 
-**Número da Lista**: X<br>
+**Número da Lista**: 64<br>
 **Conteúdo da Disciplina**: Algoritmos Ambiciosos<br>
 
 ## Alunos
