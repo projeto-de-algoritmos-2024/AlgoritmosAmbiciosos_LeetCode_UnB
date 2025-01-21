@@ -22,11 +22,12 @@ No trabalho 4 de Projeto de Algoritmos, no módulo sobre Algoritmos ambiciosos n
 - [Vídeo - Explicação](https://youtu.be/QFucnq927Qs) (minuto 3:25)
 
 <div align="left">
-  <img src="" width="700" alt="Questao 44">
+  <img src="https://github.com/user-attachments/assets/deba0683-c378-4786-ad60-8536d3ac15c2" width="700" alt="Questao 44">
   <br>
     <em>Imagem 1 - Questão 44</em>
 
 </div>
+
 
 ### 322. Coin Change (Médio)
 
@@ -35,11 +36,12 @@ No trabalho 4 de Projeto de Algoritmos, no módulo sobre Algoritmos ambiciosos n
 - [Vídeo - Explicação](https://youtu.be/QFucnq927Qs)
 
 <div align="left">
-  <img src="" width="700" alt="Questao 322">
+  <img src="https://github.com/user-attachments/assets/6e24c8c1-67d9-4c45-b200-eefad5415365" width="700" alt="Questao 322">
   <br>
     <em>Imagem 2 - Questão 322</em>
 
 </div> 
+
 
 ### 2136. Earliest Possible Day of Full Bloom (Difícil)
 
