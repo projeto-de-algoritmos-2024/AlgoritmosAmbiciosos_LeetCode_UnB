@@ -1,4 +1,4 @@
-# NomedoProjeto
+# Algoritmos Ambiciosos
 
 **Número da Lista**: 64<br>
 **Conteúdo da Disciplina**: Algoritmos Ambiciosos<br>
@@ -15,11 +15,11 @@ No trabalho 4 de Projeto de Algoritmos, no módulo sobre Algoritmos ambiciosos n
 
 ## Screenshots (Questões)
 
-### 44. Shortest Cycle in The Graph (Difícil)
+### 44. Wildcard Matching (Difícil)
 
-- [Link da Questão]()
+- [Link da Questão](https://leetcode.com/problems/wildcard-matching)
 
-- [Vídeo - Explicação]()
+- [Vídeo - Explicação](https://youtu.be/QFucnq927Qs) (minuto 3:25)
 
 <div align="left">
   <img src="" width="700" alt="Questao 44">
@@ -30,9 +30,9 @@ No trabalho 4 de Projeto de Algoritmos, no módulo sobre Algoritmos ambiciosos n
 
 ### 322. Coin Change (Médio)
 
-- [Link da Questão]()
+- [Link da Questão](https://leetcode.com/problems/coin-change)
 
-- [Vídeo - Explicação]()
+- [Vídeo - Explicação](https://youtu.be/QFucnq927Qs)
 
 <div align="left">
   <img src="" width="700" alt="Questao 322">

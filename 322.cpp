@@ -1,27 +1,29 @@
 class Solution {
 public:
     int coinChange(vector<int>& coins, int amount) {
-        // Criar vetor dp com valor máximo + 1 como valor inicial
-        vector<int> dp(amount + 1, amount + 1);
+        // Ordenamos as moedas em ordem decrescente
+        sort(coins.begin(), coins.end(), greater<int>());
         
-        // Caso base: para formar valor 0, precisamos de 0 moedas
-        dp[0] = 0;
+        int totalCoins = 0;
+        int remainingAmount = amount;
         
-        // Para cada valor de 1 até amount
-        for (int i = 1; i <= amount; i++) {
-            // Para cada moeda disponível
-            for (int coin : coins) {
-                // Se a moeda atual for menor ou igual ao valor que queremos formar
-                if (coin <= i) {
-                    // Atualizamos dp[i] com o mínimo entre o valor atual
-                    // e 1 + dp[i - coin]
-                    dp[i] = min(dp[i], 1 + dp[i - coin]);
-                }
+        // Para cada moeda, começando da maior
+        for (int coin : coins) {
+            // Se a moeda for maior que o valor restante, pula
+            if (coin > remainingAmount) continue;
+            
+            // Calcula quantas vezes podemos usar esta moeda
+            int numCoins = remainingAmount / coin;
+            totalCoins += numCoins;
+            remainingAmount -= numCoins * coin;
+            
+            // Se já formamos o valor total, retorna
+            if (remainingAmount == 0) {
+                return totalCoins;
             }
         }
         
-        // Se dp[amount] continuar com valor inicial, significa que não é possível
-        // formar o valor, então retornamos -1
-        return dp[amount] > amount ? -1 : dp[amount];
+        // Se ainda sobrou valor para formar, não é possível
+        return remainingAmount > 0 ? -1 : totalCoins;
     }
 };
