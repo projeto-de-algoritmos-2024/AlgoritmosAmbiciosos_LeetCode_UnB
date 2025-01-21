@@ -48,8 +48,7 @@ No trabalho 4 de Projeto de Algoritmos, no módulo sobre Algoritmos ambiciosos n
 - [Vídeo - Explicação](https://youtu.be/0rMd3zA1PjI)
 
 <div align="left">
-  <img src="![image](https://github.com/user-attachments/assets/eda350b6-b3df-429a-905c-b26c470ac13b)
-" width="700" alt="Questao 2136">
+  <img src="https://github.com/user-attachments/assets/eda350b6-b3df-429a-905c-b26c470ac13b" width="700" alt="Questao 2136">
   <br>
     <em>Imagem 3 - Questão 2136</em>
 
@@ -63,20 +62,11 @@ No trabalho 4 de Projeto de Algoritmos, no módulo sobre Algoritmos ambiciosos n
 - [Vídeo - Código Rodando](https://youtu.be/DUXHK0U24SI)
 
 <div align="left">
-  <img src="![image](https://github.com/user-attachments/assets/e090ed0e-a624-4cfa-bc01-a5410820b6c5)
-" width="700" alt="Questao 435">
+  <img src="https://github.com/user-attachments/assets/e090ed0e-a624-4cfa-bc01-a5410820b6c5" width="700" alt="Questao 435">
   <br>
     <em>Imagem 4 - Questão 435</em>
 
 </div> 
-
-
-## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
-
-## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
-
 
 
 
